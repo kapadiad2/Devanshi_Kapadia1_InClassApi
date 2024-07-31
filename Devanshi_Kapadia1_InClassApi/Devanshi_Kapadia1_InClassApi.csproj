@@ -13,7 +13,6 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0" />
-	  <ProjectReference Include="..\Devanshi_Kapadia_InClassApi\Devanshi_Kapadia_InClassApi.csproj" />
   </ItemGroup>
 
 </Project>
